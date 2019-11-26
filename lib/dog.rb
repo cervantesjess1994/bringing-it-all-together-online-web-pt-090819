@@ -9,9 +9,4 @@ attr_accessor :id, :name, :breed
     @breed = breed
     @@all << self
   end
-
-
-
-
-
 end
