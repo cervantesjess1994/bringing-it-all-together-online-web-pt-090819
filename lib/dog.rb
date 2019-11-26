@@ -42,7 +42,7 @@ class Dog
     end
 
     def self.new_from_db
-      dog = Dog.new 
+      dog = Dog.new
       dog.id = row[0]
       dog.name = row[1]
       dog.breed = row[2]
