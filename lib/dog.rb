@@ -75,5 +75,3 @@ class Dog
      end
      new_dog
  end
-
-    
