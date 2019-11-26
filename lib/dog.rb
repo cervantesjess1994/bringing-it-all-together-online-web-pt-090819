@@ -12,9 +12,5 @@ class Dog
 
 
 
-  
+
 end
-
-
-
-  
