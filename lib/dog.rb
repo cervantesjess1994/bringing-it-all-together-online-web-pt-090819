@@ -39,5 +39,5 @@ class Dog
       dog = Dog.new(attributes_hash)
       dog.save
       dog
-    end 
+    end
 end
